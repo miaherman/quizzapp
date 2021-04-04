@@ -1,4 +1,4 @@
-# Typescript boilerpate projekt
+# Typescript boilerplate projekt
 
 Klona ner projektet...
 
